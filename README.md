@@ -1,2 +1,2 @@
 # demo
-This is a demo gor Git and GitHub
+This is a demo for Git and GitHub
